@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Development (with the focus on web applications) and Machine Learning.
 - 🌱 I’m currently learning more about modern web technologies and software development principles.
 - 💞️ I’m looking to collaborate on Java/JavaScript projects.
-- 📫 How to reach me: LinkedId https://www.linkedin.com/in/stefan-miljevi%C4%87-78091ab8/
+- 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/stefan-miljevi%C4%87-78091ab8/) or Email
